@@ -1,0 +1,28 @@
+nom,code cyclos,,dolibarr row id,
+Artisanat - Métiers d'Art,cat1,,1,"Artisanat, métiers d'art"
+Autres commerces,cat2,,2,Autres commerces
+Commerces alimentaires,cat3,,3,Commerces alimentaires
+Décoration - Ameublement - Bricolage - Jardin,cat4,,4,"Décoration, ameublement, bricolage, jardin"
+Divers,cat5,,5,Divers
+Education - Formation,cat6,,6,"Education, formation"
+Habillement - Mode - Accessoires,cat7,,7,"Habillement, mode, accessoires"
+Hébergement,cat8,,8,Hébergement
+Hygiène - Beauté,cat9,,9,"Hygiène, beauté"
+Immobilier,cat10,,10,Immobilier
+Informatique - Électronique,cat11,,11,"Informatique, électronique"
+Mécanique - Réparation,cat12,,12,"Mécanique, réparation"
+Papeterie - Librairie - Presse - Édition,cat13,,13,"Papeterie, librairie, presse, édition"
+Produits de l'agriculture et de l'élevage,cat14,,14,Produits de l'agriculture et de l'élevage
+Restaurants - Bars - Traiteurs,cat15,,15,"Restaurants, Bars, Traiteurs"
+Santé - Bien-être,cat16,,16,"Santé, Bien-être"
+Services à la personne,cat17,,17,Services à la personne
+Sorties culturelles,cat18,,19,Sorties culturelles
+Sport - Loisirs,cat19,,20,Sport et loisirs
+Transport - Livraison,cat20,,21,"Transport, livraison"
+Web - Multimédia - Communication - Imprimerie,cat21,,22,"Web, multimédia, communication, imprimerie"
+Services aux entreprises > Conseils - Services,cat22,,24,Services aux entreprises > Conseils et services
+Services aux entreprises > Communication,cat23,,25,Services aux entreprises > Communication
+Services aux entreprises > Transport - Livraison,cat24,,26,"Services aux entreprises > Transport, livraison"
+Services aux entreprises > Traiteur,cat25,,27,Services aux entreprises > Traiteur
+Services aux entreprises > Travaux - Fournitures - Agencements,cat26,,28,"Services aux entreprises > Travaux, fournitures et agencements"
+Services aux entreprises > Location de salle - Espaces de co-working,cat27,,29,Services aux entreprises > Location de salle et espaces de co-working
